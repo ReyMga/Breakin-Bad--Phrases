@@ -25,7 +25,7 @@ function App() {
       <Contenedor>
         <Frase frase={frase}/>
         <Boton onClick={consultarApi}>
-          Obtener Frase
+          Get Phrase
           </Boton>
       </Contenedor> 
     </div>
