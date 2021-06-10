@@ -26,7 +26,7 @@ function App() {
         <Frase frase={frase}/>
         <Boton onClick={consultarApi}>
           Get Phrase
-          </Boton>
+        </Boton>
       </Contenedor> 
     </div>
   );
