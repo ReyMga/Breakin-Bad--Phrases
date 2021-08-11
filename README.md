@@ -1,6 +1,6 @@
 # ***BREAKING BAD PHRASES***
 
-![imagen](./public/imagen/imagenbb.png)
+![imagen](./public/imagenBB.png)
 
 ## Esta es una aplicación en [React](https://es.reactjs.org/) que permite  hacer un seguimiento de las tareas que se deben realizar. 
 
